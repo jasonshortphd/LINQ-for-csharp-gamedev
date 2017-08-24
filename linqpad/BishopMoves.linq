@@ -1,5 +1,6 @@
 <Query Kind="Statements" />
 
+// Original idea from Mark Heath - http://www.markheath.net/post/lunchtime-linq-challenge-answers	
 // We start with a Bishop at C6
 // what positions could it reach in ONE move?
 // This is great for path finding in games as well, but always be aware of search space 
@@ -17,4 +18,3 @@ var positions = Enumerable.Range('a', 8)
 	.Select( x => string.Format("{0}{1}", x.File, x.Rank));
 	
 positions.Dump();
-

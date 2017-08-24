@@ -1,5 +1,6 @@
 <Query Kind="Program" />
 
+// Original idea from Mark Heath - http://www.markheath.net/post/lunchtime-linq-challenge-answers	
 void Main()
 {
 	// We start with a Bishop at C6
