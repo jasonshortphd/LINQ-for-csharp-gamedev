@@ -8,6 +8,7 @@ void Main()
 	
 	// Output needs to include b5, a4, b7, a8
 
+	// This version is MUCH more readable thanks to the methods being used are isolated (and easier to debug)
 	var positions =	GetBoardPositions().Where(x => BishopCanMove(x, "c6" ));
 		
 	positions.Dump();
