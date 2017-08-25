@@ -1,5 +1,7 @@
 <Query Kind="Program" />
 
+// ShortGameDesign.com
+// Get source from here:  https://github.com/jasonshortphd/LINQ-for-csharp-gamedev
 // Original idea from Mark Heath - http://www.markheath.net/post/lunchtime-linq-challenge-answers	
 void Main()
 {

@@ -1,5 +1,7 @@
 <Query Kind="Program" />
 
+// ShortGameDesign.com
+// Get source from here:  https://github.com/jasonshortphd/LINQ-for-csharp-gamedev
 void Main()
 {
 	string longText = "Commander, our ships are under attack and we may not survive.";

@@ -1,5 +1,8 @@
 <Query Kind="Statements" />
 
+// ShortGameDesign.com
+// Get source from here:  https://github.com/jasonshortphd/LINQ-for-csharp-gamedev
+
 // Original idea from Mark Heath - http://www.markheath.net/post/lunchtime-linq-challenge-answers	
 // We start with a Bishop at C6
 // what positions could it reach in ONE move?
