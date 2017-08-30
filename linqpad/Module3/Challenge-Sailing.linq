@@ -1,6 +1,7 @@
 <Query Kind="Expression" />
 
 // Sailing Rules: Add together the best FOUR result scores
+// http://www.sailing.org/rankings/match/method_of_calculation.php
 // http://www.worldsailingywc.org/results/2016_auckland_newzealand.php
 // RK(GBR) Places
 // 6,9,7,10,12,26,5,7,9
@@ -13,5 +14,3 @@
 	.OrderByDescending(s => s)
 	.Take(4)
 	.Sum()
-	
-	
