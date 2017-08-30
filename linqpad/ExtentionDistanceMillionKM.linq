@@ -14,7 +14,7 @@ void Main()
 // Extension methods for the string class
 public static class StringExtensions
 {
-	private const string sizeInGBFormatter = "{0:0.00} M km";
+	private const string sizeInGBFormatter = "{0:0.0}M km";
 
 	public static string BytesToGB(this String str)
 	{
@@ -22,4 +22,3 @@ public static class StringExtensions
 	}
 
 }
-
