@@ -2,7 +2,6 @@
 
 // ShortGameDesign.com
 // Get source from here:  https://github.com/jasonshortphd/LINQ-for-csharp-gamedev
-
 void Main()
 {
 
