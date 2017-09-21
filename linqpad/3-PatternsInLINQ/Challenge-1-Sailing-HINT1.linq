@@ -1,5 +1,8 @@
 <Query Kind="Expression" />
 
+// ShortGameDesign.com
+// Get source from here:  https://github.com/jasonshortphd/LINQ-for-csharp-gamedev
+
 // Sailing Rules: Add together the best FOUR result scores
 // http://www.sailing.org/rankings/match/method_of_calculation.php
 // http://www.worldsailingywc.org/results/2016_auckland_newzealand.php

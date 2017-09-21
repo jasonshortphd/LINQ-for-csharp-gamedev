@@ -1,5 +1,7 @@
 <Query Kind="Program" />
 
+// ShortGameDesign.com
+// Get source from here:  https://github.com/jasonshortphd/LINQ-for-csharp-gamedev
 void Main()
 {
 	string remoteInfo = "I have a great idea for a way to shorten a news post to a summary";

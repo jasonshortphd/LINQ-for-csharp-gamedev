@@ -1,7 +1,9 @@
 <Query Kind="Program" />
 
+// ShortGameDesign.com
+// Get source from here:  https://github.com/jasonshortphd/LINQ-for-csharp-gamedev
+// This came from the Unity3d College
 // https://unity3d.college/2017/07/01/linq-unity-developers/
-
 void Main()
 {
 	// Example Code that doesn't run	
@@ -33,6 +35,4 @@ private GameObject GetNearestGameobjectLINQ(List<GameObject> gameObjectsToConsid
 		
 	return nearest;
 }
-
-
 
