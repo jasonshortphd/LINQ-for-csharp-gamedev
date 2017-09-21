@@ -14,3 +14,16 @@ linqpad\   This will be .linq files that can be opened in LINQPAD.  Each of thes
 
 http://linqpad.net is where to get linqpad (there is a freee and paid version)
 
+Working with LINQ sample from Microsoft Docs
+Includes card generation code using LINQ
+https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq
+
+LINQ Unity Developers Article
+https://unity3d.college/2017/07/01/linq-unity-developers/
+
+LINQ Samples Site
+http://linqsamples.com/
+
+MSDN Docs on Enumerable Methods in LINQ
+https://msdn.microsoft.com/en-us/library/system.linq.enumerable_methods(v=vs.110).aspx
+
