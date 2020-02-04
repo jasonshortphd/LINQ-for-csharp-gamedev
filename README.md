@@ -12,7 +12,7 @@ linqpad\   This will be .linq files that can be opened in LINQPAD.  Each of thes
 
 ## Information:
 
-http://linqpad.net is where to get linqpad (there is a freee and paid version)
+http://linqpad.net is where to get linqpad (there is a free and paid version)
 
 Working with LINQ sample from Microsoft Docs
 Includes card generation code using LINQ
